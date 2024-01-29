@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Rubik";
+    src: url(../Rubik/static/Rubik-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Rubik";
+    src: url(../Rubik/static/Rubik-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Noto-sans";
+    src: url(../Noto_Sans/static/NotoSans-Regular.ttf);
+}
